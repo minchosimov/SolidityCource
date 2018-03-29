@@ -1,5 +1,5 @@
 # SolidityCource
 SoftUni
 Contains:
-Examlples
+Examples
 Homeworks
